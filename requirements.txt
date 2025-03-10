@@ -1,0 +1,4 @@
+flask==3.0.2
+flask-cors==4.0.0
+tushare==1.2.89
+pandas==2.2.3 
